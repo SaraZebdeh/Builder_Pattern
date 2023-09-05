@@ -15,16 +15,7 @@ public class BuilderPattern {
         
         System.out.println(manual.toString());
         System.out.println("");
-        System.out.println(sport.toString());
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        System.out.println(sport.toString());    
     }
     
 }
